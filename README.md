@@ -1,5 +1,5 @@
 # cxk-ball-hitplane
-/dinogame为chrome恐龙小游戏蔡徐坤版本.fork from [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner]
+/dinogame为chrome恐龙小游戏蔡徐坤版本.fork from https://github.com/wayou/t-rex-runner/
 微信蔡徐坤篮球打飞机
 
 电脑打开 响应式设计模式 使用
